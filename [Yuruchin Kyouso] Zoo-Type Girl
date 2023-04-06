@@ -1,0 +1,33 @@
+{
+   "title":"[Yuruchin Kyouso] Zoo-Type Girl",
+   "description":"",
+   "author":"Yuruchin Kyouso",
+   "artist":"Yuruchin Kyouso",
+   "cover":"https://i.imgur.com/GOgK0GT.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/qq8jLNF"
+         },
+         "last_updated":1624606143,
+         "title":"Zoo-Type Girl @ Rabbit",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/HUYNzcy"
+         },
+         "last_updated":1624606143,
+         "title":"Zoo-Type Girl @ Puppy",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ChW3oZz"
+         },
+         "last_updated":1624606143,
+         "title":"Zoo-Type Girl @ Crow",
+         "volume":"3"
+      }
+   }
+}
